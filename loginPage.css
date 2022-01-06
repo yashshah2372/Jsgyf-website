@@ -1,0 +1,13 @@
+#login{
+    left      : 48.5%;
+    top       : 48.5%;
+    position  : absolute;
+    transform : translate(-50%, -50%);
+}
+@media screen and (max-width: 450px)
+{
+    #box{
+        width:80%;
+        height:30vh;
+    }
+}
